@@ -23,7 +23,7 @@ Uses commitment loss to keep encoder outputs close to codebook vectors
 Transformer can be trained on these discrete codes for generation
 
 
-### 2. Stable Diffusion:
+### 2. [Stable Diffusion](https://poloclub.github.io/diffusion-explainer/):
 Built on Latent Diffusion Models (LDM), with key architectural choices:
 
 Compression Phase:
